@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "TestPackage1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "definitionFile": "config/project-scratch-def.json"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "TestPackage1": "0Ho6F000000XZeHSAW",
+        "TestPackage1@0.1.0-1": "04t6F000003vrL7QAI"
+    }
+}
